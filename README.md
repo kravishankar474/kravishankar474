@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kravishankar474
 - 👀 I’m interested in programming language like java and related project
-- 🌱 I’m currently learning advanced java and all the things like mvc, springboot and many mmore which help me in becoming full stack using java.
+- 🌱 I’m currently learning advanced java and all the things like mvc, springboot and many more which help me in becoming full stack using java.
 - 💞️ I’m looking to collaborate on coding or making a stunning website and do something new.
 - 📫 How to reach me ...
 
